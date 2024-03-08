@@ -1,0 +1,53 @@
+.navbar {
+    background-color: rgb(252, 113, 0);
+}
+
+#titulo .nav .nav-link.active {
+    background-color: #070707;
+}
+
+#titulo .nav .nav-link{
+    color:#fff ;
+}
+
+.section-title{
+    font-family:Incosolata;
+}
+
+.section-title span{
+    color: rgb(252, 113, 0);
+}
+
+.nav .text-colored{
+    color: rgb(252, 113, 0);
+}
+
+.nav-cardapio .nav-link.active{
+    background-color: #070707;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: rgb(252, 113, 0);
+}
+
+#horario{
+    background-color: rgb(202, 183, 166);
+}
+
+#Reservas{
+    background-color:rgb(202, 183, 166) ;
+}
+
+.text-colored{
+    color:rgb(252, 113, 0); 
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
